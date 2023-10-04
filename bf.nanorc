@@ -1,0 +1,12 @@
+syntax brainfuck "\.bf$"
+header ".*Brainfuck"
+
+# Colors
+color purple "<"
+color purple ">"
+color brightblue "\["
+color brightblue "\]"
+color lime "\+"
+color brightred "\-"
+color brightyellow "\,"
+color brightyellow "\."
